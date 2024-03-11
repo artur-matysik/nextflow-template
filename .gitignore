@@ -1,0 +1,13 @@
+.nextflow*
+report.*
+*.Rproj
+.Rproj.user
+.RData
+.Rhistory
+*/.RData
+*/*/.RData
+.Rproj
+work/*
+.nextflow/*
+test_output/*
+exec/*
